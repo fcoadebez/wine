@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "nom": "Boeuf1",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "2": {
+        "id": 2,
+        "nom": "Boeuf2",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "3": {
+        "id": 3,
+        "nom": "Boeuf3",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "4": {
+        "id": 4,
+        "nom": "Boeuf4",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "5": {
+        "id": 5,
+        "nom": "Boeuf5",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "6": {
+        "id": 6,
+        "nom": "Boeuf6",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "7": {
+        "id": 7,
+        "nom": "Boeuf7",
+        "src": "http://fakeimg.pl/100x100/"
+    },
+    "8": {
+        "id": 8,
+        "nom": "Boeuf8",
+        "src": "http://fakeimg.pl/100x100/"
+    }
+}
